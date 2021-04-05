@@ -12,7 +12,7 @@ npm install
 node . 8080
 ```
 
-访问 https://cfdns.wmlabs.net 或自行部署 Web；
+访问 https://cfdns.wmlabs.net/login.html 或自行部署 Web；
 
 Cloudflare Proxy URL 填写 `http://127.0.0.1:8080`
 
